@@ -1,2 +1,12 @@
 1. 集合学习方法；
 2. 搭建反编译与git的环境；
+3. vector原理， 遍历方式；
+4. iterator-java.util
+    VS  
+   iterable-java.lang
+5. 源码阅读
+   http://blog.csdn.net/a910626/article/details/8009005
+   如果让您亲自动手来来写一个Integer中的toString（）方法和parseInt（）方法，您会怎么写？
+   http://www.shangxueba.com/jingyan/998787.html
+   
+   http://www.educity.cn/java/502263.html
