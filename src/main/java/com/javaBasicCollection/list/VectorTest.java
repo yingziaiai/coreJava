@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.util.Vector;
 
 //http://www.cnblogs.com/skywang12345/p/3308833.html
+
 public class VectorTest {
 public static void main(String[] args) {
 	Vector vector = new Vector();
